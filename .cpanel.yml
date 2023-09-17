@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/tmarhnzb/repositories/master
-    - /bin/cp -R images $DEPLOYPATH
